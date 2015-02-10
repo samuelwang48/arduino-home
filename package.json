@@ -1,0 +1,19 @@
+{
+  "name": "arduino-home",
+  "version": "0.0.0",
+  "description": "",
+  "main": "helloworld.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://swangui@github.com/swangui/arduino-home.git"
+  },
+  "author": "Samuel Wang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/swangui/arduino-home/issues"
+  },
+  "homepage": "https://github.com/swangui/arduino-home"
+}
