@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/swangui/arduino-home/issues"
   },
-  "homepage": "https://github.com/swangui/arduino-home"
+  "homepage": "https://github.com/swangui/arduino-home",
+  "dependencies": {
+    "express": "~4.11.2"
+  }
 }
